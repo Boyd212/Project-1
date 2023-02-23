@@ -20,6 +20,11 @@ h1 {
     font-size: 48px;
 }
 
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .seo {
     color: #d9dcd6;
 }
@@ -32,11 +37,8 @@ header section {
     font-size: 20px;
 }
 
-header section ul {
+li {
     list-style-type: none;
-}
-
-header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -50,7 +52,7 @@ p {
     font-size: 16px;
 }
 
-main {
+.main-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -173,28 +175,10 @@ main {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.footer {
+footer {
     padding: 30px;
+    font-size: 20px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
 }
