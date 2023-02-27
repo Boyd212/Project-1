@@ -24,4 +24,5 @@ Acceptance Criteria:
 
 ### Mock-up
 
-![Horiseon Accessible Website](https://user-images.githubusercontent.com/124947507/221690575-af136370-c94d-441b-994b-9fbc53d3c3b7.png)
+
+![Horiseon Accessible Website (1)](https://user-images.githubusercontent.com/124947507/221693440-32d8d7bc-a681-4656-b238-64ef6b1f697f.png)
